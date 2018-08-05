@@ -1,0 +1,17 @@
+{
+  "name": "ribs",
+  "version": "0.9.4",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "hüseyin özün",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "discord.js": "^11.3.2",
+    "moment": "^2.22.2",
+    "ytdl": "^0.10.1"
+  }
+}
